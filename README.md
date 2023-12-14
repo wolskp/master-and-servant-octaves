@@ -1,7 +1,7 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 # Depeche Mode - Master and Servant - Октавы
 
-Учимся определять на слух звуки через октаву на примере песни Master and Servant в исполнении ансамбля Дипи Шмот
+Учимся определять на слух звуки через октаву на примере песни `Master and Servant` в исполнении ансамбля `Дипи Шмот`.
 Видео взято отсюда:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IsvfofcIE1Q?si=wlmLmEtdZriZOsb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br>
