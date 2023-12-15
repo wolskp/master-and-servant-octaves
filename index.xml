@@ -2,7 +2,7 @@
 <level>
   <owner>wolskp</owner>
   <repo>master-and-servant-octaves</repo>
-  <version>v1.0.6</version>
+  <version>v1.0.7</version>
   <next number="1" owner="wolskp" repo="tonic-harmonic"/>
   <readme>
     <ru>055cc8e9af0806f4c736079380afefb22ed1c87d7eb7170ab96559a1d757eb90</ru>
@@ -117,11 +117,11 @@
     <tonalities>1</tonalities>
     <video name="MasterAndServant4_0.mp4" size="144707" type="video/mp4">05b4ae0d9b3ea1c20d2539d016894302a0fa757ae8faece2ae936fe3929919e3</video>
     <notes>
-      <note number="1" values="18" ticks="48" durationTicks="94" ppq="192" velocity="0.699"/>
-      <note number="2" values="18" ticks="142" durationTicks="87" ppq="192" velocity="0.669"/>
-      <note number="3" values="18" ticks="240" durationTicks="191" ppq="192" velocity="0.757"/>
-      <note number="4" values="1" ticks="432" durationTicks="194" ppq="192" velocity="0.842"/>
-      <note number="5" values="1" ticks="625" durationTicks="189" ppq="192" velocity="0.779"/>
+      <note number="1" values="18" ticks="48" durationTicks="94" ppq="192" velocity="0.316"/>
+      <note number="2" values="18" ticks="142" durationTicks="87" ppq="192" velocity="0.314"/>
+      <note number="3" values="18" ticks="240" durationTicks="191" ppq="192" velocity="0.306"/>
+      <note number="4" values="1" ticks="432" durationTicks="194" ppq="192" velocity="0.306"/>
+      <note number="5" values="1" ticks="625" durationTicks="189" ppq="192" velocity="0.301"/>
     </notes>
   </exercise>
   <exercise number="9">
